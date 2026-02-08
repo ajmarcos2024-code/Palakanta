@@ -29,7 +29,7 @@ jobs:
         run: npm run build
 
       - name: Capacitor Sync
-        run: npx cap sync android
+        run: npx cap sync
 
       - name: Fix Permissions
         # This fixes the "Permission Denied" error for gradlew
