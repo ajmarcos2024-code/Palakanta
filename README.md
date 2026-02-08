@@ -1,0 +1,2 @@
+# Palakanta
+My Capacitor App"
