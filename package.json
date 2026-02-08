@@ -1,0 +1,7 @@
+{
+  "name": "palakanta",
+  "version": "1.0.0",
+  "description": "Capacitor Android App",
+  "main": "index.html",
+  "scripts": {
+    "build": "mkdir -p www && echo '<html><body>Palakanta
